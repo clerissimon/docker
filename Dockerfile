@@ -8,5 +8,5 @@ RUN pip install --no-cache-dir notebook==4.0
 #COPY dfnlab-0.5.0-cp37-cp37m-win_amd64.whl lib/ 
 #RUN pip install lib/dfnlab-0.5.0-cp37-cp37m-win_amd64.whl
 
-#requirement mybinder 
-ENV HOME=/tmp                                                                                             ENV HOME=/tmp        
+#requirement mybind
+ENV HOME=/tmp
